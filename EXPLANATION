@@ -1,0 +1,16 @@
+-Simple Summary of Your Recipe Code
+This Python program is a Recipe Manager and Weekly Meal Planner. It helps users:
+
+Register or log in with a username and password
+
+View, add, edit, or delete recipes, including ingredients, cooking steps, and servings
+
+Plan meals for each day of the week by choosing recipes
+
+Generate a shopping list based on the weekly meal plan
+
+Search recipes by name or ingredient
+
+Save and load data using CSV files for recipes, ingredients, and users
+
+The program runs in the terminal and guides the user step-by-step through menu options.
